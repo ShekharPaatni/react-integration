@@ -1,0 +1,5 @@
+name: React testing
+description: "Try to acheive the react node json"
+type: module
+package: custom
+core: 8.x

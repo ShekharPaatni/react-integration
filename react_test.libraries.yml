@@ -1,0 +1,4 @@
+reactest:
+  version: 1.0
+  js:
+    dist/bundle.js: {}

@@ -1,0 +1,20 @@
+
+<?php
+
+function react_test_page_attachments(array &$page) {
+
+
+    $page['#attached']['library'][] = 'react_test/reactest';
+ 
+}
+
+//
+///**
+// * Implements template_preprocess_node().
+// */
+//function react_test_preprocess_node(&$variables) {
+//  $node = $variables['node'];
+//  
+//    $variables['#attached']['library'][] = 'react_test/reactest';
+//  
+//}
